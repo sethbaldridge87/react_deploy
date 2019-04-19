@@ -1,14 +1,14 @@
 {
-  "main.css": "/sethbaldridge87.github.io/react_deploy/static/css/main.9020f77f.chunk.css",
-  "main.js": "/sethbaldridge87.github.io/react_deploy/static/js/main.2f2e3421.chunk.js",
-  "main.js.map": "/sethbaldridge87.github.io/react_deploy/static/js/main.2f2e3421.chunk.js.map",
-  "runtime~main.js": "/sethbaldridge87.github.io/react_deploy/static/js/runtime~main.01f66989.js",
-  "runtime~main.js.map": "/sethbaldridge87.github.io/react_deploy/static/js/runtime~main.01f66989.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/sethbaldridge87.github.io/react_deploy/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/sethbaldridge87.github.io/react_deploy/static/js/2.6efc73d3.chunk.js.map",
-  "index.html": "/sethbaldridge87.github.io/react_deploy/index.html",
-  "precache-manifest.561c1db09ead24c34309a6235d592db9.js": "/sethbaldridge87.github.io/react_deploy/precache-manifest.561c1db09ead24c34309a6235d592db9.js",
-  "service-worker.js": "/sethbaldridge87.github.io/react_deploy/service-worker.js",
-  "static/css/main.9020f77f.chunk.css.map": "/sethbaldridge87.github.io/react_deploy/static/css/main.9020f77f.chunk.css.map",
-  "static/media/logo.svg": "/sethbaldridge87.github.io/react_deploy/static/media/logo.5d5d9eef.svg"
+  "main.css": "/react_deploy/static/css/main.9020f77f.chunk.css",
+  "main.js": "/react_deploy/static/js/main.4690d472.chunk.js",
+  "main.js.map": "/react_deploy/static/js/main.4690d472.chunk.js.map",
+  "runtime~main.js": "/react_deploy/static/js/runtime~main.36e202d2.js",
+  "runtime~main.js.map": "/react_deploy/static/js/runtime~main.36e202d2.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/react_deploy/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/react_deploy/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/react_deploy/index.html",
+  "precache-manifest.084171a3ec49a70180ebd057ed0859b4.js": "/react_deploy/precache-manifest.084171a3ec49a70180ebd057ed0859b4.js",
+  "service-worker.js": "/react_deploy/service-worker.js",
+  "static/css/main.9020f77f.chunk.css.map": "/react_deploy/static/css/main.9020f77f.chunk.css.map",
+  "static/media/logo.svg": "/react_deploy/static/media/logo.5d5d9eef.svg"
 }
